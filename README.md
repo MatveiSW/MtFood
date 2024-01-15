@@ -14,5 +14,5 @@
 - GCD
 - Realm
 - Kingfisher
-
-  ![HomeVC](https://github.com/MatveiSW/MtFood/blob/s/mtFood.png) 
+  
+ ![MtFoodVC](https://github.com/MatveiSW/MtFood/blob/main/mtFood.png)
