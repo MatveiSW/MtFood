@@ -15,5 +15,5 @@
 - Realm
 - Kingfisher
 
-## Скрины приложения
+## Скрины приложения:
  ![MtFoodVC](https://github.com/MatveiSW/MtFood/blob/main/mtFood.png)
